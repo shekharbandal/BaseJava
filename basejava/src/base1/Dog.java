@@ -4,7 +4,7 @@ abstract class Animal{
 	abstract void sound();
 	abstract void speak();
 	void behave() {
-		System.out.println("This is abstarct method");
+		System.out.println("This is abstarct method demo");
 	}
 	
 }
